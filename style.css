@@ -1,0 +1,10 @@
+body{margin:0;background:#0b1220;color:#e9e3d6;font:17px/1.6 Georgia,"Times New Roman",serif}
+main{max-width:720px;margin:0 auto;padding:48px 24px 64px}
+header{text-align:center;margin-bottom:32px}
+header img{width:140px;height:140px;border-radius:50%}
+h1{font-size:36px;margin:16px 0 4px;color:#e2c48d;letter-spacing:.5px}
+h2{color:#e2c48d;font-size:22px;margin-top:32px}
+.tag{color:#b8ae9b;font-style:italic;margin:0}
+a{color:#e8b96a}
+nav{text-align:center;margin-top:40px;font-size:15px;color:#8f8878}
+nav a{margin:0 10px}
